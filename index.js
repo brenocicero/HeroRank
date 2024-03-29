@@ -1,9 +1,10 @@
 let hero = "Spider Man boladão"
+
 let heroXP = 9001
+
 let ranks = ["Ferro", "Bronze", "Prata", "Ouro", "Plantina", 
 "Ascendente", "Imortal", "Radiante"]
 
-console.log(ranks[1])
 
 if(heroXP <= 1000){
     console.log("O Herói de nome " + hero + " " + "está no nível " +
